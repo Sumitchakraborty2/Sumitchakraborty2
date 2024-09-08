@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sumitchakr41965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sumitchakr41965" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit chakraborty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-chakraborty-4b2748301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/sumitxchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitxchakraborty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit-123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit-123" height="30" width="40" /></a>
 </p>
